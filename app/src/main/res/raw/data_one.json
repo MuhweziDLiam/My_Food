@@ -1,0 +1,73 @@
+[
+
+  {
+    "image":"assets://women.png",
+    "title":"Nutrition Tips for women",
+    "text":["Have a fat free breakfast. Skimmed milk with oats will help you get energy. As body is in rest throughout the night, healthy breakfast is very important in the morning.",
+      "Have fruit juice and vegetable juice two times a day. In the morning, have a glass of fruit juice and in the evening have a glass of vegetable juice.",
+      "Say no to junk foods. Avoid as much as you can.",
+      "Have fruits and vegetables in your diet. Prepare a diet chart. Healthy life starts with healthy food. Your diet chart should contain essentials vitamins and minerals.",
+      "Women are greater risk than men to develop calcium deficiency. Have good amount of calcium in your diet.",
+      "Protein is essentials but too much may harm. Proteins are hard to digest, so keep a balanced protein diet.",
+      "Make sure to get enough iron in your food. Iron deficiency is also a common among women. Include ample amount of iron in your diet.",
+      "Cut your alcohol or caffeine intake.",
+      "Sleep a minimum of 7 hours a day. Say no to stress. If you feel stresses do something which will divert your mind from stress."]
+  },
+  {
+    "image":"assets://men.png",
+    "title":"Nutrition Tips for men",
+    "text":["Start your day with good breakfast. Eat regular meals. Your meals should be divided in chunks throughout the day. Eating small amount of food multiple times a day does not allow the fat to stay in your body as your body will continuously work to digest the food.",
+    "Include proteins and fibers in your diet. Prepare a diet chart to keep a track of your eating habits.",
+    "Take protein and mineral supplements if required. There is no substitute of a good diet but if your diet does not contains essentials proteins and minerals or vitamins, take good supplements.",
+    "Say no to Trans Fat. Trans Fat is a risk for heart disease and it is very important to reduce your overall fat intake. It is also important to know the type of fat you intake. Keep a check of fat you are consuming.",
+    "Eat more fruits and vegetables. Yogurt is highly nutritious and is an excellent source of protein, calcium and potassium.",
+    "Sleep a minimum of 7 hours a day. Say no to stress. If you feel stresses then do something which will divert your mind from stress."]
+  },
+  {
+    "image":"assets://summer.png",
+    "title":"Summer Nutrition Tips",
+    "text":            [
+      "Drink 6-8 glass of water daily.",
+      "Include more fruits and vegetables in your meals and snacks. Say no to junk foods.",
+      "Have Luke warm water with lime early in the morning.",
+      "Include yogurt in your meals. It will help keep your digestive system healthy.",
+      "Avoid packaged food items. Instead take fresh and natural fruits.",
+      "Include salad in your diet, Consume leafy green vegetables like lettuce, cucumbers. Salads will help your body to stay cool as they contains significant amount of water to keep you hydrated.",
+      "Start using olive oil in cooking food. Olive oil is loaded with antioxidants and healthy fats. Olive oil is beneficial for heart, skin and hairs."
+    ]
+  },
+  {
+    "image":"assets://winter.png",
+    "title":"Winter Nutrition Tips",
+    "text": ["During winter, you will feel an eager to eat hot crispy fried foods. Avoid fried foods. Instead eat baked foods.",
+      "Have healthy soups. With lots of vegetables, or maybe some meat, soup is the perfect food to build your immune system.",
+      "You need to drink 6-8 glasses of fluid each day. This includes tea, coffee and water.",
+      "Garlic is a great disease fighter. It also adds flavor to meals and food. When chopped and left to stand for 10-15 minutes, Garlic will give the most benefit to your immune system.",
+      "Have Ginger tea. It will help relieving digestive problems such as nausea, loss of appetite, motion sickness and pain. Ginger can also reduce Muscle Pain and Soreness. Amazingly, the health benefits of ginger include combating cancer, inflammation, cough, sore throat, and much more."]
+  },
+
+  {
+    "image":"assets://skin.png",
+    "title":"Skin Nutrition Tips",
+    "text":["Sip green tea. Green tea is one of the skin-friendly beverages. Aim for 2-4 cups throughout your day.",
+      "Eat and use Avocados. Avocados are a good source of biotin; avocados help to prevent dry skin and brittle hair and nails. Also they can hydrate dry skin when applied topically.",
+      "Tomatoes are good for your skin. They are great source of the antioxidant lycopene; tomatoes are considered a high-carotenoid fruit which can help slow down cellular damage from free radicals.",
+      "Eat Salmon. Salmon contains astaxanthin (keto-carotenoid), a carotenoid that improves skin elasticity, so you'll have fewer fine lines.",
+      "Eggs are always beneficial for skin. It contains protein which helps repair cells that have suffered free radical damage. Eggs, a complete source of protein, also contain biotin, an essential vitamin that protects against dry skin.",
+      "Include pomegranate in your food list. This antioxidant-rich fruit can help skin create more collagen, while speeding healing when applied topically.",
+      "Include walnuts in your food list. If you don’t eat fish or not a fan of fish, walnuts will add Omega-3 fatty acids to your diet."]
+  },
+  {
+    "image":"assets://hair.png",
+    "title":"Hair Nutrition Tips",
+    "text": [
+      "Eat sufficient amounts of protein. Five amino acids are of particular relevance to hair growth are cystine, cysteine, methionine, arginine and lysine. Protein is composed of the amino acids essential for the building of new cells, including hair.",
+      "Eat sufficient amount of carbohydrates. They are an important source of the B vitamins that are vital to healthy hair. Carbs are an essential source of energy and help in the growth of body tissues, including hair.",
+      "Include walnuts in your food list. If you don’t eat fish or not a fan of fish, walnuts will add Omega-3 fatty acids to your diet. Walnuts are a rich source of Omega-3s, which help put shine in your hair and also will aid in making skin smoother and younger looking.",
+      "Eat sufficient iron. Ferritin (stored iron) levels are extremely important in terms of hair growth. To help promote healthy iron levels, eat iron reach foods.",
+      "Iron can only be absorbed effectively if you are eating it alongside vitamin C! Have a glass of freshly squeezed orange juice, or one of your favorite fruits/vegetables to help with iron uptake.",
+      "Try not to eat too much salt. It can cause water retention, especially in your scalp.",
+      "Apply eggs. Eggs contain lots of protein and conditioning your hair with eggs enhances hair growth."
+    ]
+  }
+]

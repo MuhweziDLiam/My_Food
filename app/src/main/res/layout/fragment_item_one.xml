@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/WhiteSmoke"
+    android:layout_height="match_parent"
+    android:padding="8dp">
+
+    <ScrollView
+        android:layout_marginBottom="10dp"
+        android:fadingEdgeLength="0dp"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+
+        <LinearLayout
+            android:id="@+id/container"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/article_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:src="@color/contentDividerLine" />
+
+            <TextView
+                android:id="@+id/article_title"
+                style="@style/TextAppearance.AppCompat.Large"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="8dp"
+                tools:text="A title" />
+
+            <ImageView
+                style="@style/TitleBadgeTitle"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:src="@color/contentDividerLine" />
+
+            <com.example.muhwezidenisliam.myfood.scroll_view.NonScrollListView
+                android:layout_marginBottom="30dp"
+                android:id="@+id/text_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"/>
+
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:src="@color/contentDividerLine" />
+
+        </LinearLayout>
+
+</ScrollView>
+    <FrameLayout
+        android:id="@+id/read_more"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/read_more_action"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:text="more" />
+
+    </FrameLayout>
+
+</RelativeLayout>

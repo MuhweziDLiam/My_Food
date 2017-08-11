@@ -1,0 +1,180 @@
+[
+  {
+    "image":"assets://beetroot.jpg",
+    "title":"Beetroot",
+    "benefits":["	Immune System boost	"	,
+      "	Improve Bone ,liver , kidney and pancreas Health	"	,
+      "	Lower Blood Pressure	"	,
+      "	Diabetes	"	,
+      "	Antioxidant and Inflammation	"	,
+      "	Digestion – constipation relief	"],
+    "nutrients":["	1 Cup : 136g	"	,
+      "	Calorie: 59	"	,
+      "	It contains the below:	"	,
+      "	Carbohydrate: 13g (Fiber:3.8g, Sugar:9g)	"	,
+      "	Fat : 0.2g,	"	,
+      "	Protein: 2.2g,	"	,
+      "	Vitamins: C:11%,B-6:5%	"	,
+      "	Calcium, Iron, Sodium, Potassium, Magnesium	"]
+  },
+
+  {
+    "image":"assets://carrot.jpg",
+    "title":"Carrots",
+    "benefits":["	Contains Beta-carotene – good for hair, skin and eye vision	"	,
+      "	Immune System	"	,
+      "	Antioxidant	"	,
+      "	Reduce Cholesterol	"	,
+      "	Heart Health and prevent cancer	"	],
+    "nutrients":["	1 medium: 61g	"	,
+      "	Calorie:25	"	,
+      "	It contains the below:	"	,
+      "	Carbohydrate: 6g (Fiber:1.7g, Sugar:2.9g)	"	,
+      "	Fat : 0.1g,	"	,
+      "	Sodium, Potassium,	"	,
+      "	Protein: 0.6g,	"	,
+      "	Vitamins: A:203%,C:6%,B-6:5%	"	,
+      "	Calcium, Iron, Magnesium	"
+    ]
+  },
+
+  {
+    "image":"assets://corn.jpg",
+    "title":"Corn",
+    "benefits":["	Dietary fiber and good for digestion	"	,
+      "	Immune systems	"	,
+      "	Control diabetes	"	,
+      "	Antioxidant benefits	"	,
+      "	Blood sugar	"	],
+    "nutrients":["	1 Cup: 170g	"	,
+      "	Calorie: 600	"	,
+      "	It contains the below:	"	,
+      "	Carbohydrate: 123g	"	,
+      "	Fat : 8g,	"	,
+      "	Protein:16g,	"	,
+      "	Vitamins: B-6:50%	"	,
+      "	Calcium, Iron, Sodium, Potassium, Magnesium	"]
+  },
+
+  {
+    "image":"assets://cucumber.jpg",
+    "title":"Cucumber",
+    "benefits":["	Keeps body hydrated	"	,
+      "	Flashes toxic	"	,
+      "	Maintain body heat	"	,
+      "	Skin glow and eye health	"	,
+      "	Aids weight loss	"	,
+      "	Prevents cancer	"	],
+    "nutrients":["	1 Cucumber : 300g	"	,
+      "	Calorie: 47	"	,
+      "	It contains the below:	"	,
+      "	Carbohydrate: 11g (Fiber:1.5g, Sugar:5g)	"	,
+      "	Fat : 0.3g,	"	,
+      "	Protein: 2g,	"	,
+      "	Vitamins: C:14%,B-6:5%	"	,
+      "	Calcium, Iron, Sodium, Potassium, Magnesium	"	]
+  },
+
+  {
+    "image":"assets://ginger.jpg",
+    "title":"Ginger",
+    "benefits":["	Anti-inflammatory and antioxidant	"	,
+      "	Treat Nausea and Morning Sickness	"	,
+      "	Muscle Pain and Soreness relief	"	,
+      "	Osteoarthritis relief	"	,
+      "	Lower Blood sugar and anti-diabetic	"	,
+      "	Lower heart disease risk	"	,
+      "	Improve digestion and reduce stomach related problems	"	,
+      "	Lower cholesterol level	"	,
+      "	Prevents cancer	"	,
+      "	Fights common infections	"	],
+    "nutrients":["	Size: 100g	"	,
+      "	Calories: 80	"	,
+      "	Carbohydrates : 18g	"	,
+      "	Fat: 0.8g , Protein: 1.8g	"	,
+      "	Vitamins: C , B-6	"	,
+      "	Sodium, Potassium, Magnesium, Calcium, Iron	"	]
+  },
+
+  {
+    "image":"assets://greenbeans.jpg",
+    "title":"Green Beans",
+    "benefits":["	Omega-3 Fatty Acids	"	,
+      "	Cardiovascular	"	,
+      "	Antioxidant , Inflammation	"	,
+      "	Good fiber	"	,
+      "	Heart , Eye and Bone health	"	,
+      "	Immune System	"	,
+      "	Protect from Diabetes	"],
+    "nutrients":["	1 Cup, 100g	"	,
+      "	Calorie: 31	"	,
+      "	It contains the below:	"	,
+      "	Carbohydrate: 7g (Fiber:3.4g, sugar:3.0g)	"	,
+      "	Protein:1.8g,	"	,
+      "	Vitamins: A:2%, C:27%, B-6:5%,K	"	,
+      "	Calcium, Iron, Sodium, Potassium, Magnesium	"]
+  },
+
+  {
+    "image":"assets://greenpeas.jpg",
+    "title":"Green Peas",
+    "benefits":["	Weight Maintain	"	,
+      "	Stomach Cancer Prevention	"	,
+      "	Blood Sugar	"	,
+      "	Wrinkles, Arthritis	"	,
+      "	Anti-Ageing, Immune System	"	,
+      "	Lower Cholesterol	"
+    ],
+    "nutrients":["	1 cup: 145g	"	,
+      "	Calorie: 118	"	,
+      "	It contains the below:	"	,
+      "	Carbohydrate: 21g (Fiber:7g, Sugar:8g)	"	,
+      "	Fat : 0.6g,	"	,
+      "	Sodium, Potassium,	"	,
+      "	Protein: 0.9g,	"	,
+      "	Vitamins: A:22%,C:96%,B-6:10%	"	,
+      "	Calcium, Iron, Magnesium	"	]
+  },
+
+  {
+    "image":"assets://potato.jpg",
+    "title":"Potatoes",
+    "benefits":["	Antioxidant and lowers cell damage",
+      "	Lots of fiber in Potato Skin",
+      "	Digestion",
+      "	Heart Health",
+      "	Blood Pressure lower",
+      "	Anti-inflammation",
+      "	Good for skin",
+      "	Brain and Nervous system"
+    ],
+    "nutrients":["	1 Potato: Size Medium	"	,
+      "	Calories:163	"	,
+      "	Carbohydrate:37g(Fiber:4.7g, Sugar:1.7g)	"	,
+      "	Fat:0.2g, Protein:4.3g	"	,
+      "	Vitamins C-70%, B-6:30%	"	,
+      "	Sodium:13mg, Potassium:890mg, Calcium, Magnesium, Iron	"
+    ]
+  } ,
+  {
+  "image":"assets://sweetpotatoes.jpg",
+  "title":"Sweet Potatoes",
+  "benefits":["	Antioxidant and lowers cell damage	"	,
+    "	Dietary fiber	"	,
+    "	Digestion	"	,
+    "	Heart Health	"	,
+    "	Blood Pressure lower	"	,
+    "	Inflammation	"	,
+    "	Good for skin	"	,
+    "	Healthy Immune System	"
+  ],
+  "nutrients":["	1 Sweet Potato: Size Medium	"	,
+    "	Calories: 112	"	,
+    "	Carbohydrate: 26g (Fiber:3.9g, Sugar:5g)	"	,
+    "	Fat : 0.1g, Protein: 2g	"	,
+    "	Vitamins: A:368%, C: 5% , B-6: 15%	"	,
+    "	Sodium: 72mg, Potassium:438mg, Calcium, Magnesium, Iron	"
+  ]
+}
+
+]

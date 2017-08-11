@@ -1,0 +1,92 @@
+[
+  {
+    "image":"assets://calcium.png",
+    "title":"Calcium",
+    "source":"Milk, yogurt, cheese, almonds, broccoli, orange juice, dried figs, fillet, tofu, pumpkin, spinach, green beans, onion, avocado, turnip greens, kale, mustard greens",
+    "benefits":"Maintain optimal body weight, protect cardiac muscles, teeth and gums, reduces risk of kidney stones, control blood pressure, prevent premenstrual depression, maintain healthy alkaline pH level",
+    "requirements":["Adult (19-50 years): 1000 mg/DayAdult Men (51-70 years): 1000 mg/Day", "Adult Women (51-70 years): 1200 mg /Day"]
+
+  },
+
+  {
+    "image":"assets://chromium.png",
+    "title":"Chromium",
+    "source":"Broccoli, potatoes, grape juice, whole-wheat bread, red wine, brown rice, chicken, eggs, fish, corn, mushrooms, sea foods, beer, Garlic",
+    "benefits":"Diabetes, weight loss, fat loss, depression",
+    "requirements":["Adult Men (19-50 years): 35 micrograms/Day", "Adult Women (19-50 years): 25 micrograms/Day", "Adult Men (>50 years): 30 micrograms/Day","Adult Women (>50 years): 20 micrograms/Day"]
+
+  },
+  {
+    "image":"assets://copper.jpg",
+    "title":"Copper",
+    "source":"Sesame seeds, nuts, cashews, mushrooms, barley, sunflower seeds, beans, potatoes, lentils, lobster, crab, liver, kale, chickpeas",
+    "benefits":"Prevents premature ageing, increase energy production, regulate heart rhythm, balances thyroid glands, increases red blood cell formation, reduced cholesterol level, reduces symptoms of arthritis, quick wound heal",
+    "requirements":["Adults: 1.2 mg/day"]
+
+  },
+  {
+    "image":"assets://fluorine.jpg",
+    "title":"Fluorine",
+    "source":"Sea food, tea, soda, fish, fluoridated food products – salt, milk, fluoridated drinking water",
+    "benefits":"Bones, teeth, spleen, eye sight",
+    "requirements":["Adults Men: 4 mg/day", "Adults Women: 3 mg/day"]
+
+  },
+  {
+    "image":"assets://iodine.jpg",
+    "title":"Iodine",
+    "source":"Cranberries, Yogurt, Navy Beans, Strawberries, Cheese, Potatoes, Iodine salt",
+    "benefits":"Thyroid gland, depression, constipation, fatigue, skin, abnormal weight gain",
+    "requirements":["Adults Men: 100 micrograms/day", "Adults Women: 100 micrograms/day"]
+  },
+
+  {
+    "image":"assets://iron.jpg",
+    "title":"Iron",
+    "source":"Whole grains, green leafy vegetables, legumes, lentils, soy beans, cereals, bread, spinach, turnip, sprouts, broccoli and dry fruits",
+    "benefits":"Oxygen Carrier, Fatigue, Hemoglobin Formation, Muscle Function, Brain Function, Body Temperature Regulation, Iron Deficiency Anemia",
+    "requirements":["Men 14-18 years: 11 mg/day","Women 14-18 years: 15 mg/day","Men 14-50 years: 8-9 mg/day","Women 14-50 years: 15-18 mg/day","Men 50+ years: 8-9 mg/day","Women 50+ years: 8-9 mg/day"]
+
+  },
+  {
+    "image":"assets://magnesium.jpg",
+    "title":"Magnesium",
+    "source":"Fish, whole grains, avocados, dark leafy greens, nuts, seeds, beans, yogurt, bananas, dried fruit, dark chocolate",
+    "benefits":"It helps in reducing symptoms such as chronic pain, fatigue and insomnia. It helps in increasing the energy Level of our body, improving the digestion by Relieving Constipation, relief to Nerves & Anxiety, regulates Levels of Calcium, Potassium and Sodium. Healthy Heart, Prevents Migraine Headaches and also helps Prevent Osteoporosis.",
+    "requirements":["Adult Men (14–18 years): 410 mg/Day","Adult Women (14–18 years): 360 mg/Day","Adult Men (19–30 years): 400 mg/Day","Adult Women (19–30 years): 310 mg/Day","Adult Men (31–50 years): 420 mg/Day","Adult Women (31–50 years): 320 mg/Day","Adult Men (>51 years): 420 mg/Day","Adult Women (>51 years): 320 mg/Day"]
+  },
+  {
+    "image":"assets://manganese.jpg",
+    "title":"Manganese",
+    "source":"Cloves, Brown Rice, Spinach, Pineapple, Soybeans, Oats, Pumpkin Seeds",
+    "benefits":"Arthritis, osteoporosis, diabetes",
+    "requirements":["Men 9 to 18 years: 1.6 milligrams per day","Men 19+ years: 1.8 milligrams per day","Women 14 to 18 years: 2.2 milligrams per day","Women 19+ years: 2.3 milligrams per day"]
+
+  },
+  {
+    "image":"assets://potassium.jpg",
+    "title":"Potassium",
+    "source":"Dark leafy greens, potatoes, beans, squash, yogurt, fish, avocados, mushrooms, bananas",
+    "benefits":"Relief from anxiety and stress, enhances muscle strength, metabolism, water balance, electrolytic functions, nervous system, prevents stroke, regulates blood pressure, heart and kidney disorders",
+    "requirements":["Adult: 3.5 to 4.5 grams/day"]
+
+  },
+  {
+    "image":"assets://sodium.jpg",
+    "title":"Sodium",
+    "source":"Salt, baking soda, meat, fish, poultry, dairy foods, eggs, various seasonings, condiments, olives, and pickled foods",
+    "benefits":"Maintaining blood pressure, balances fluids in the body, sending nerve impulse, muscle contractions",
+    "requirements":["Adults: 1.5 micrograms/day"]
+
+  },
+
+  {
+    "image":"assets://zinc.jpg",
+    "title":"Zinc",
+    "source":"Beans, nuts, crab, lobster, red meat and poultry, whole grains, dairy products, Sesame seeds and pumpkin seeds, lamb",
+    "benefits":"Hair, immunity, infertility, digestion including diarrhea, memory, nerves, weight gain or loss, fatigue, appetite",
+    "requirements":["Adults: 8 mg/day"]
+
+  }
+
+]

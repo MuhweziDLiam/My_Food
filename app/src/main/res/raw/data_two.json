@@ -1,0 +1,52 @@
+[
+  {
+    "image":"assets://a.jpg",
+    "title":"Vitamin A",
+    "source":"Sweet Potatoes , Carrots, Kale, Squash( Butternut), Dried Apricots ,Red Pepper ,Cod Liver Oil ,Paprika ,Mangoes , Whole Milk , Mustard Green, Dried Basil, Sweet Green Peas, Turnip Greens, Tomatoes ,Spinach ,Peaches, Papaya, Red Capsicum, Pumpkin, Broccoli Leaf, Liver( Chicken, Turkey, Beef)",
+    "benefits":"Eyes, Immune Systems, Teeth, Skin",
+    "requirements":["Adult Men: 900 Micrograms/Day","Adult Women: 700 Micrograms/Day"]
+
+  },
+
+  {
+    "image":"assets://b.jpg",
+    "title":"Vitamin B",
+    "source":"Milk, yogurt, tuna fish, eggs, chicken, legumes (pulses or beans), whole grains, potatoes, bananas, chili peppers, tempeh, nutritional yeast, brewer's yeast, and molasses",
+    "benefits":"Immune System Functioning, Energy Production (convert food to fuel), Iron Absorption, Lower Stroke Risk, Healthy heart, Aids digestions, Anti-ageing , Healthy Cardiovascular systems, Healthy brains and nervous systems",
+    "requirements":["Adult Men: 900 Micrograms/Day","Adult Women: 700 Micrograms/Day"]
+
+  },
+  {
+    "image":"assets://c.jpg",
+    "title":"Vitamin C",
+    "source":"Papaya, Broccoli, Pineapples, Oranges, Brussels sprouts, Strawberries, Bell Peppers, Kale, Peach, Tomatoes",
+    "benefits":"Skin, eyes, stomach, teeth, gums, heart, joints, cartilage, lungs, cataracts",
+    "requirements":["Adult Men: 90 mg/Day", "Adult Women: 75 mg/Day"]
+
+  },
+  {
+    "image":"assets://d.jpg",
+    "title":"Vitamin D",
+    "source":"Cheese, Butter, Cereals, Fatty Fish, Egg Yolk, Meat",
+    "benefits":"Diabetes, Cancer, Strength Muscles, Kidney, Heart, Mental Health, Lower blood pressure, Increase Calcium absorption to prevent bone loss, lowers inflammation, Reduces depression",
+    "requirements":["Adult Men (19-50 years): 5 micrograms/Day","Adult Women (19-50 years): 5 micrograms /Day ","Adult Men (51-70 years): 10micrograms/Day ","Adult Women (51-70 years): 10 micrograms /Day", "Adult Men (>70 years): 15 micrograms/Day", "Adult Women (>70 years): 15 micrograms /Day"]
+
+  },
+  {
+    "image":"assets://e.jpg",
+    "title":"Vitamin E",
+    "source":"Olive Oil, Coconut Oil, Sunflower Oil, Broccoli, Kale, Spinach, Avocado, Almonds, Peanuts",
+    "benefits":"Improves immunity, healthy heart, improves brain function, eyes, lungs, skin, antioxidants, cholesterol reduction",
+    "requirements":["Adult Men: 15 mg/Day", "Adult Women: 15 mg/Day"]
+  },
+
+  {
+    "image":"assets://k.jpg",
+    "title":"Vitamin K",
+    "source":"Avocado, Green Apple, Kiwi, limes, Green Pears, Brussels sprouts, Cucumber, Kale, cabbage, asparagus, green grapes, honey dew melon, arugula, artichokes, green beans, celery, whole milk, animal fats, egg yolk, broccoli",
+    "benefits":"Help blood clotting to stop bleeding from wounds, bleeding in liver, blood sugar regulation, boost immune and digestive systems, reduces risk of osteoporosis, relief from menstrual pain and excess menstrual bleeding",
+    "requirements":["Adult Men: 120 microgram/Day","Adult Women: 90 micrograms/Day"]
+
+  }
+
+]

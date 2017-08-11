@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/WhiteSmoke"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <ScrollView
+        android:fadingEdgeLength="0dp"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+    <RelativeLayout
+        android:layout_marginBottom="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/article_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+
+                android:src="@color/contentDividerLine" />
+
+            <TextView
+                android:id="@+id/article_title"
+                style="@style/TextAppearance.AppCompat.Large"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="8dp"
+                tools:text="A title" />
+
+            <ImageView
+                style="@style/TitleBadgeTitle"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+
+                android:src="@color/contentDividerLine" />
+
+            <TextView
+                android:id="@+id/second_title"
+                style="@style/TextAppearance.AppCompat.Large"
+                android:layout_width="wrap_content"
+                android:text="Benefits"
+                android:layout_height="wrap_content" />
+            <ImageView
+                style="@style/TitleBadgeTitle"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:src="@color/contentDividerLine" />
+
+
+            <com.example.muhwezidenisliam.myfood.scroll_view.NonScrollListView
+                android:id="@+id/text_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"/>
+
+            <ImageView
+                style="@style/TitleBadgeTitle"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:src="@color/contentDividerLine" />
+
+            <TextView
+                android:id="@+id/fourth_title"
+                style="@style/TextAppearance.AppCompat.Large"
+                android:layout_width="wrap_content"
+                android:text="Nutrients"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:src="@color/contentDividerLine" />
+
+            <com.example.muhwezidenisliam.myfood.scroll_view.NonScrollListView
+                android:id="@+id/fourth_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"/>
+
+            <ImageView
+                style="@style/TitleBadgeTitle"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:src="@color/contentDividerLine" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    </ScrollView>
+
+    <FrameLayout
+        android:id="@+id/read_more"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/read_more_action"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:text="more" />
+
+    </FrameLayout>
+
+
+
+</RelativeLayout>

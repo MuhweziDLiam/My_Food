@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">My Food</string>
+    <string name="hint">Hint</string>
+    <string name="about_text_one">
+        My Food app benefits a user in the following sectors;
+        Nutrition Guide : Various Nutrition Related Guidance for Men and Women
+        Vitamins : Know about various Vitamins required by our body
+        Minerals : Know about various Minerals required by our body
+        Fruits Guide : Know about various common fruits and their benefits
+        Vegetables Guide : Know about various common vegetables and their benefits</string>
+    <string name="about_textx_two" >
+        In each section there are many sub sections targeting our body and detailed information are provided.
+        Only you know your body type and how to keep yourself healthy.
+        This application should be used only for guidance purpose.
+    </string>
+
+</resources>
